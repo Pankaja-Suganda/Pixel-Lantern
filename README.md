@@ -16,4 +16,5 @@ This project uses the [FastLED](https://github.com/FastLED/FastLED) library to c
 ## 🧱 LED Layout
 
 The layout is a star-like radial pattern, not a linear strip. It includes a central LED and 8 arms radiating outward. Each arm contains multiple LEDs, with the outermost LEDs on the four cardinal directions marked in blue to indicate corners.
+
 ![LED Layout](layout.png)
