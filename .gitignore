@@ -1,0 +1,12 @@
+# Ignore build files
+*.elf
+*.hex
+
+# Arduino backup files
+*.bak
+*.d
+*.dep
+
+# OS files
+.DS_Store
+Thumbs.db
